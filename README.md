@@ -1,5 +1,7 @@
 # Feature-wise CCC rates for top-performing handcrafted Feature Representations (FR).
 
+Code coming soon!
+
 ## VAM database
 |Dimension   | Type  | FR ID  | FR desription | CCC  | 
 |---|---|---|---|---|
